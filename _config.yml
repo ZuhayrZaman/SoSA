@@ -20,12 +20,20 @@ author: Zuhayr Zaman
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  Guild:
+    - Board: "aboutme"
+    - Membership: "aboutme"
+    - Slounge: "aboutme"
+    - Rules: "aboutme"
+  Events: "aboutme"
+  Students: "aboutme"
+    - Freshers: "aboutme"
+    - Studies: "aboutme"
+    - Safety: "aboutme"
+  Companies: "aboutme"
+  Contact: "aboutme"
+  Photo Gallery: "aboutme"
+  
 ################
 # --- Logo --- #
 ################
