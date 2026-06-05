@@ -21,17 +21,17 @@ author: Zuhayr Zaman
 
 navbar-links:
   Guild:
-    - Board: "aboutme"
-    - Membership: "aboutme"
-    - Slounge: "aboutme"
-    - Rules: "aboutme"
-  Events: "aboutme"
-  Students: "aboutme"
-    - Freshers: "aboutme"
-    - Studies: "aboutme"
-    - Safety: "aboutme"
-  Companies: "aboutme"
-  Contact: "aboutme"
+    - Board: "https://www.sosa.fi/board"
+    - Membership: "https://www.sosa.fi/membership"
+    - Slounge: "https://www.sosa.fi/slounge"
+    - Rules: "https://www.sosa.fi/rules"
+  Events: "https://www.sosa.fi/events"
+  Students:
+    - Freshers: "https://www.sosa.fi/freshers"
+    - Studies: "https://www.sosa.fi/studies"
+    - Safety: "https://www.sosa.fi/safety"
+  Companies: "https://www.sosa.fi/companies"
+  Contact: "https://www.sosa.fi/contact"
   Photo Gallery: "aboutme"
   
 ################
