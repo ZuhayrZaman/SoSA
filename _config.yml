@@ -60,37 +60,37 @@ round-avatar: true
 social-network-links:
   email: "board@sosa.fi"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+#  facebook: username
   github: SoSA-ry-Guild
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: "@daattali"
+#  twitter: username
+#  patreon: username
+#  youtube: "@username"
 #  whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
+#  medium: username
+#  reddit: username or r/yoursubreddit
   linkedin: sosa-ry-047210318
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+#  stackoverflow: "3943160/username"
+#  snapchat: username
   instagram: sosa.ry
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
+#  steam: username
+#  twitch: username
+#  yelp: username
+#  telegram: username
+#  calendly: username
 #  mastodon: instance.url/@username
-#  bluesky: yourname
+#  bluesky: username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
-#  strava: youruserid
+#  kaggle: username
+#  hackerrank: username
+#  gitlab: username
+#  itchio: username
+#  untappd: username
+#  strava: username
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
